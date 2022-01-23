@@ -4,8 +4,11 @@ This is a Launchpad for [FreeCodeCamp](https://www.freecodecamp.org/) challenge 
 
 ## Getting Started
 
-First, run the development server:
-
+First,Open a terminal session in the project directory and install Project Dependencies using the command 
+```bash
+npm install
+```
+Then,  run the development server:
 ```bash
 npm run dev
 # or
